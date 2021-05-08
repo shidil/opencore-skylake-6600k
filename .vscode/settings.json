@@ -4,6 +4,7 @@
         "Lilu",
         "Opencore",
         "SMBIOS",
-        "Skylake"
+        "Skylake",
+        "bootloader"
     ]
 }
